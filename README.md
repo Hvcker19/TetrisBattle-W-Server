@@ -267,19 +267,12 @@ python3 -m pytest tests/test_client.py
 ## 📜 License
 MIT License - See LICENSE file for details
 
-## 🙏 Credits
-- Original Tetris Battle game engine
-- Pygame community
-- WebSockets library maintainers
-- All contributors and testers
+## **Disclaimer**
 
-## 📞 Support
-For issues, questions, or suggestions:
-- Create an issue on GitHub
-- Join our Discord server
-- Email: support@tetrisbattle.com
+This work is based on the following repos: <br/>
+1. https://github.com/xuyuwei/tetris-battle
+2. https://github.com/ylsung/TetrisBattle
 
----
 
 **Version**: 2.0 (Optimized)
 **Last Updated**: February 2026
